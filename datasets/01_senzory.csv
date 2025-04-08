@@ -1,21 +1,21 @@
 sensor_id,nazev_senzoru,typ,umisteni,datum_instalace
-1,Senzor-1,svetlo,Knihovna,2025-02-13
-2,Senzor-2,vlhkost,Knihovna,2024-06-26
-3,Senzor-3,svetlo,Třída B,2025-03-04
-4,Senzor-4,hluk,Jídelna,2024-12-22
-5,Senzor-5,CO2,Tělocvična,2024-10-15
-6,Senzor-6,CO2,Třída A,2024-12-17
-7,Senzor-7,CO2,Jídelna,2024-10-22
-8,Senzor-8,vlhkost,Třída A,2025-02-21
-9,Senzor-9,CO2,Třída A,2024-05-22
-10,Senzor-10,vlhkost,Chodba,2024-09-04
-11,Senzor-11,CO2,Chodba,2024-10-30
-12,Senzor-12,vlhkost,Tělocvična,2025-01-21
-13,Senzor-13,vlhkost,Třída B,2024-10-27
-14,Senzor-14,vlhkost,Třída B,2024-12-01
-15,Senzor-15,teplota,Jídelna,2025-02-19
-16,Senzor-16,teplota,Třída A,2025-01-01
-17,Senzor-17,vlhkost,Jídelna,2024-04-26
-18,Senzor-18,hluk,Knihovna,2024-09-07
-19,Senzor-19,vlhkost,Třída B,2024-04-25
-20,Senzor-20,teplota,Knihovna,2024-08-15
+1,Senzor-1,svetlo,Třída A,2024-12-02
+2,Senzor-2,teplota,Jídelna,2024-06-04
+3,Senzor-3,vlhkost,Třída A,2024-07-07
+4,Senzor-4,teplota,Knihovna,2024-06-12
+5,Senzor-5,CO2,Třída B,2024-06-04
+6,Senzor-6,teplota,Tělocvična,2024-09-19
+7,Senzor-7,vlhkost,Tělocvična,2024-12-20
+8,Senzor-8,teplota,Chodba,2025-01-24
+9,Senzor-9,CO2,Třída A,2024-07-27
+10,Senzor-10,hluk,Tělocvična,2024-05-18
+11,Senzor-11,CO2,Chodba,2025-02-18
+12,Senzor-12,CO2,Jídelna,2025-01-06
+13,Senzor-13,vlhkost,Jídelna,2025-01-06
+14,Senzor-14,svetlo,Jídelna,2024-06-12
+15,Senzor-15,teplota,Tělocvična,2025-02-18
+16,Senzor-16,teplota,Chodba,2024-12-21
+17,Senzor-17,teplota,Chodba,2024-05-26
+18,Senzor-18,vlhkost,Chodba,2024-12-05
+19,Senzor-19,svetlo,Chodba,2024-07-13
+20,Senzor-20,CO2,Třída B,2025-02-18
