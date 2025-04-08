@@ -104,4 +104,3 @@ def generate_iot_dataset(output_folder="datasets"):
 
 if __name__ == "__main__":
     generate_iot_dataset()
-    

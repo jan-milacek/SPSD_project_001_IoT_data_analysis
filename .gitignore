@@ -1,4 +1,4 @@
-*.py
+01_dataset_genetator.py
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
