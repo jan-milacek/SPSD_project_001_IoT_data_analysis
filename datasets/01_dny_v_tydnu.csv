@@ -1,0 +1,8 @@
+cislo_dne,nazev_dne, poradi 
+0, 'Neděle', 7
+1, 'Pondělí', 1
+2, 'Úterý', 2
+3, 'Středa', 3
+4, 'Čtvrtek', 4
+5, 'Pátek', 5
+6, 'Sobota', 6
