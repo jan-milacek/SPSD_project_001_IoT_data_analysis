@@ -1,0 +1,21 @@
+sensor_id,nazev_senzoru,typ,umisteni,datum_instalace
+1,TEMP-001,Teplotní,Budova A - Přízemí,2022-03-25
+2,HUM-002,Vlhkostní,Budova B - Přízemí,2022-08-11
+3,TEMP-003,Teplotní,Výrobní hala,2022-10-03
+4,LIGHT-004,Světelný,Serverovna,2022-11-29
+5,TEMP-005,Teplotní,Budova A - 1. patro,2022-05-22
+6,HUM-006,Vlhkostní,Výrobní hala,2021-04-24
+7,TEMP-007,Teplotní,Výrobní hala,2022-06-11
+8,LIGHT-008,Světelný,Serverovna,2022-05-20
+9,CO2-009,CO2,Sklad,2022-03-22
+10,TEMP-010,Teplotní,Budova A - 2. patro,2021-01-16
+11,CO2-011,CO2,Venkovní prostory,2022-03-22
+12,HUM-012,Vlhkostní,Budova B - Přízemí,2022-01-21
+13,TEMP-013,Teplotní,Budova A - 1. patro,2021-12-07
+14,TEMP-014,Teplotní,Venkovní prostory,2022-01-13
+15,LIGHT-015,Světelný,Budova B - 1. patro,2022-11-17
+16,CO2-016,CO2,Výrobní hala,2022-08-26
+17,CO2-017,CO2,Budova A - 1. patro,2021-06-14
+18,PRES-018,Tlakový,Sklad,2021-12-26
+19,LIGHT-019,Světelný,Budova B - Přízemí,2021-01-09
+20,TEMP-020,Teplotní,Budova A - Přízemí,2021-02-22
